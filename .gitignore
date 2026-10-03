@@ -1,0 +1,6 @@
+.env
+.env.*
+*.pem
+*.token
+hearthseed.bearer
+.DS_Store
