@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hearthseed": {
+      "url": "https://hearthseed.com/api/mcp",
+      "auth": {
+        "CLIENT_ID": "https://hearthseed.com/.well-known/cursor-mcp-client",
+        "scopes": ["mcp"]
+      }
+    }
+  }
+}

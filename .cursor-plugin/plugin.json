@@ -1,0 +1,22 @@
+{
+  "name": "hearthseed",
+  "displayName": "Hearthseed",
+  "version": "0.1.1",
+  "description": "Run your Hearthseed house from Cursor: Today, tasks, shopping, pantry, recipes, and events for your Adult account.",
+  "author": {
+    "name": "Hearthseed"
+  },
+  "homepage": "https://hearthseed.com",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "hearthseed",
+    "mcp",
+    "house",
+    "today",
+    "tasks",
+    "grocery",
+    "pantry",
+    "recipes",
+    "events"
+  ]
+}
